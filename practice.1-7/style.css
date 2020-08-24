@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    color: #91989F;
+}
+
+header{
+    height: 400px;
+    width: 100%;
+    background-image: url(img/mv.jpg);
+    background-size: cover;
+    background-position: center bottom;
+}
+
+header h2{
+    padding: 20px;
+}
+
+main .service{
+    width: 840px;
+    margin: 50px auto;
+}
+
+main .service-pr{
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom: solid 1px #91989F;
+}
+
+main .service-pr a{
+    color: #91989F;
+}
